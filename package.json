@@ -1,0 +1,30 @@
+{
+  "name": "@rugpullindex/list-metadata",
+  "version": "0.0.1",
+  "description": "List providing additionally curated metadata information about assets on the OCEAN/BDP marketplace ",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rugpullindex/list-metadata.git"
+  },
+  "keywords": [
+    "OCEAN",
+    "Protocol",
+    "meta",
+    "data",
+    "data sets",
+    "rug pull index"
+  ],
+  "author": "Tim Daubenschütz <tim@daubenschuetz.de> (https://timdaub.github.io/)",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/rugpullindex/list-metadata/issues"
+  },
+  "homepage": "https://github.com/rugpullindex/list-metadata#readme",
+  "devDependencies": {
+    "ava": "3.15.0"
+  }
+}
