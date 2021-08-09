@@ -1,0 +1,268 @@
+{
+   "did:op:7Bce67697eD2858d0683c631DdE7Af823b7eea38":{
+      "content":"Annotated Images",
+      "publisher":{
+         "name":"DataUnion.app",
+         "url":"https://dataunion.app/"
+      }
+   },
+   "did:op:a2B8b3aC4207CFCCbDe4Ac7fa40214fd00A2BA71":{
+      "content":"Products on Amazon.com",
+      "publisher":{
+         "name":"Innovation Atelier SA",
+         "url":"https://innovationatelier.com/"
+      }
+   },
+   "did:op:fcB47f5781F14Ed7E032BD395113b84C897aA23f":{
+      "content":"Curated List of Data Sets",
+      "publisher":{
+         "name":"Data Whale",
+         "url":"https://www.datawhale.online/"
+      }
+   },
+   "did:op:2a76F680279CE629a9F5E601BDa7246e06F226f0":{
+      "content":"Labeled Traffic Images",
+      "publisher":{
+         "name":"Evotegra GmbH",
+         "url":"https://www.evotegra.de"
+      }
+   },
+   "did:op:b98B96B2DDe7e1237928400cFCD54327eF58fff4":{
+      "content":"Web Browsing Insights",
+      "publisher":{
+         "name":"Swash",
+         "url":"https://swashapp.io/"
+      }
+   },
+   "did:op:b07a8bb80242752ce164560ABCb6517DA90a4F65":{
+      "content":"Web Browsing Data",
+      "publisher":{
+         "name":"Swash",
+         "url":"https://swashapp.io/"
+      }
+   },
+   "did:op:9AEA3d21761fa461bF90cFdcb374877A26C3a17d":{
+      "content":"Animal Health in Transit",
+      "publisher":{
+         "name":"Transport Genie",
+         "url":"https://transportgenie.ca/"
+      }
+   },
+   "did:op:B8334421ec9086BdaAEaDf48EAaf3B435eA1df70":{
+      "content":"Posts w.r.t. Mental Health",
+      "publisher":{
+         "name":"Thalus AI",
+         "url":"https://thalus.ai/"
+      }
+   },
+   "did:op:21Fc0DeEEB21B7a9deB1965dB0cf7688f17f56CD":{
+      "content":"Twitter Brand Mentions",
+      "publisher":{
+         "name":"Building Block Group",
+         "url":"https://buildingblockgroup.com/"
+      }
+   },
+   "did:op:9322AA125920B7C07560BB2AAA760254737acd1C":{
+      "content":"Altcoin Sentiment",
+      "publisher":{
+         "name":"Building Block Group",
+         "url":"https://buildingblockgroup.com/"
+      }
+   },
+   "did:op:119F22fa21D4ee54c9911E1Bf876Fcf24A0ADFC1":{
+      "content":"Curated List of Data Sets",
+      "publisher":{
+         "name":"Bidging.tech",
+         "url":"https://bridging.tech"
+      }
+   },
+   "did:op:561459e3BF769f5e1B5Dc901C782EC43924A07dD":{
+      "content":"CAD Multibit File",
+      "publisher":{
+         "name":"Open Data",
+         "url":"https://twitter.com/databrokers1"
+      }
+   },
+   "did:op:8eBb2D1e90ce1B26D8261Ae41010F2936e52Edf3":{
+      "content":"Areal Images",
+      "publisher":{
+         "name":"Data Reservoir",
+         "url":"https://twitter.com/DataReservoir"
+      }
+   },
+   "did:op:862923EE25fFcEA0bF73273703808D1C00295cC2":{
+      "content":"Products on Ebay.com",
+      "publisher":{
+         "name":"Data Reservoir",
+         "url":"https://twitter.com/DataReservoir"
+      }
+   },
+   "did:op:a68a1021e89d6C1E9318696a06630BC9920BD1Ae":{
+      "content":"Bitcoin Sentiment",
+      "publisher":{
+         "name":"Building Block Group",
+         "url":"https://buildingblockgroup.com/"
+      }
+   },
+   "did:op:650b84c304087c5500408D2B1f91d1990186829c":{
+      "content":"Web Browsing Data",
+      "publisher":{
+         "name":"Atlantis Stream",
+         "url":"https://atlantisstream.io/"
+      }
+   },
+   "did:op:2B7485461E1d1aD5DCD6F005C5233e43932602Bd":{
+      "content":"Microorganism Research",
+      "publisher":{
+         "name":"BOKU Vienna",
+         "url":"https://boku.ac.at/"
+      }
+   },
+   "did:op:ED6FB9010Fd283aF2f2700f13A7f24E027f1CEf3":{
+      "content":"DSARs",
+      "publisher":{
+         "name":"Tapmydata",
+         "url":"https://tapmydata.com/"
+      }
+   },
+   "did:op:5b74331abfC0330757f7A0756dc6312C2BFAe48a":{
+      "content":"Reddit Stock Mentions",
+      "publisher":{
+         "name":"CryptoMe",
+         "url":"https://etherscan.io/address/0x304fFD0750Fa2D642fd87480D0A1e632DA8bE593"
+      }
+   },
+   "did:op:52E9D273B9b21eb08b58A4E7f7f4FB5A10366c4f":{
+      "content":"Uniswap Rugpulls",
+      "publisher":{
+         "name":"Dorian Nakamoto",
+         "url":"https://etherscan.io/address/0xd62A5C591992f0965332AF7D8a4f054802454f76"
+      }
+   },
+   "did:op:064d657938856D103C566fbE44eF90eE4F2109cb":{
+      "content":"German Energy Market",
+      "publisher":{
+         "name":"Open Data",
+         "url":"https://twitter.com/databrokers1"
+      }
+   },
+   "did:op:64c8fb43DaF86684F97273636B683436A76cDdc3":{
+      "content":"Poker Hands",
+      "publisher":{
+         "name":"Poker_man",
+         "url":"https://twitter.com/ohlolmy"
+      }
+   },
+   "did:op:a2C2a45dA05ecBEd89495815A0267D77eDD8d2B7":{
+      "content":"Web Browsing Data",
+      "publisher":{
+         "name":"Alternative Data",
+         "url":"https://etherscan.io/address/0xEc3de9fF0841dCE104882ab298620bCB5FC4d718"
+      }
+   },
+   "did:op:2498f08d2e1b7e8a181987a65b666Fc85eC3f56D":{
+      "content":"GIF Images",
+      "publisher":{
+         "name":"The Goblin GifMaster",
+         "url":"https://etherscan.io/address/0x6641071d8b36DcE317cf6Efaf485d3EAd4fCEd30"
+      }
+   },
+   "did:op:7c0D0DC5bCACeDf8121047c34bFb0ABeB00d4b19":{
+      "content":"Twitter Sentiment",
+      "publisher":{
+         "name":"Data Whale",
+         "url":"https://www.datawhale.online/"
+      }
+   },
+   "did:op:B7A3BeE84446cC27ac7cc0f36598E0aF58360ce8":{
+      "content":"Registered German Automobiles",
+      "publisher":{
+         "name":"Open Data",
+         "url":"https://twitter.com/databrokers1"
+      }
+   },
+   "did:op:c9BA1E6366AaDA7ba70c89835044F3125cb86364":{
+      "content":"Annual Chlorophyll Concentration",
+      "publisher":{
+         "name":"Winston Wolfe",
+         "url":"https://etherscan.io/address/0x903322C7E45A60d7c8C3EA236c5beA9Af86310c7"
+      }
+   },
+   "did:op:94EF613E8c91e372347da00fac486ed787e84B5d":{
+      "content":"Chainlink Twitter Sentiment",
+      "publisher":{
+         "name":"Big Data Protocol",
+         "url":"https://bigdataprotocol.com/"
+      }
+   },
+   "did:op:060F499afFd251dd0bcDEC06550D404Ff2ACCf82":{
+      "content":"THORChain Twitter Sentiment",
+      "publisher":{
+         "name":"Big Data Protocol",
+         "url":"https://bigdataprotocol.com/"
+      }
+   },
+   "did:op:208466A232baac900b1295EAf4B6f9E633EcbD33":{
+      "content":"Regulatory News Analytics for Stocks",
+      "publisher":{
+         "name":"Big Data Protocol",
+         "url":"https://bigdataprotocol.com/"
+      }
+   },
+   "did:op:177311f057Bc9B56165947F7465E0E239024FD2d":{
+      "content":"Companies Hiring for Blockchain",
+      "publisher":{
+         "name":"Revelio Labs",
+         "url":"https://www.reveliolabs.com/"
+      }
+   },
+   "did:op:8b0aCAa0cDc89f0A76ACD246177dD75b9614aF43":{
+      "content":"Fitness e-Commerce Market Research",
+      "publisher":{
+         "name":"Data Whale",
+         "url":"https://www.datawhale.online/"
+      }
+   },
+   "did:op:6fF3fe62aC95A605eF01e7e00B404A566FCc3f93":{
+      "content":"Tapmydata companies",
+      "publisher":{
+         "name":"Tapmydata",
+         "url":"https://tapmydata.com/"
+      }
+   },
+   "did:op:AB75E588c4a92C10Be831696E6C912157e8F2605":{
+      "content":"Blockchain Hiring by Vertical",
+      "publisher":{
+         "name":"Revelio Labs",
+         "url":"https://www.reveliolabs.com/"
+      }
+   },
+   "did:op:dBD396FF74D513D4916341cEC54aC49F9C3E0e94":{
+      "content":"Retail Investor Flows in GME",
+      "publisher":{
+         "name":"VandaTrack",
+         "url":"https://www.vandatrack.com/"
+      }
+   },
+   "did:op:47A2C25E01BC2cf9e57D9366BFdeDD2008711186":{
+      "content":"Regulatory News Analytics for Altcoins",
+      "publisher":{
+         "name":"Big Data Protocol",
+         "url":"https://bigdataprotocol.com/"
+      }
+   },
+   "did:op:bBf03B7fB0336ced9DDA4d8282aCab6F3a013655":{
+      "content":"Educational Videos About Autism",
+      "publisher":{
+         "name":"Remi Tetot",
+         "url":"https://www.linkedin.com/in/remi-tetot"
+      }
+   },
+   "did:op:aaDFEd6F835a2178Ee79d98331bd1DBc277688e7":{
+      "content":"AAVE Twitter Sentiment Analysis",
+      "publisher":{
+         "name":"Big Data Protocol",
+         "url":"https://bigdataprotocol.com/"
+      }
+   }
+}";"
