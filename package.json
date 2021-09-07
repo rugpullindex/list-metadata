@@ -1,6 +1,6 @@
 {
   "name": "@rugpullindex/list-metadata",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "List providing additionally curated metadata information about assets on the OCEAN/BDP marketplace ",
   "main": "./src/index.js",
   "scripts": {
