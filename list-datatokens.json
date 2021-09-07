@@ -2,14 +2,14 @@
   "did:op:7Bce67697eD2858d0683c631DdE7Af823b7eea38": {
     "content": "Annotated Images",
     "publisher": {
-      "name": "DataUnion.app",
+      "name": "DataUnion",
       "url": "https://dataunion.app/"
     }
   },
   "did:op:a2B8b3aC4207CFCCbDe4Ac7fa40214fd00A2BA71": {
     "content": "Products on Amazon.com",
     "publisher": {
-      "name": "Innovation Atelier SA",
+      "name": "Innovation Atelier",
       "url": "https://innovationatelier.com/"
     }
   },
@@ -23,7 +23,7 @@
   "did:op:2a76F680279CE629a9F5E601BDa7246e06F226f0": {
     "content": "Labeled Traffic Images",
     "publisher": {
-      "name": "Evotegra GmbH",
+      "name": "Evotegra",
       "url": "https://www.evotegra.de"
     }
   },
@@ -282,7 +282,7 @@
   "did:op:5eF1e1D65e058A343e0106065cc3926cf416A1F4": {
     "content": "Trending Stocks on Social Media",
     "publisher": {
-      "name": "CryptoMe, Inc.",
+      "name": "CryptoMe",
       "url": "https://etherscan.io/address/0x304fFD0750Fa2D642fd87480D0A1e632DA8bE593"
     }
   },
@@ -354,6 +354,27 @@
     "publisher": {
       "name": "Edged Analytics",
       "url": "https://etherscan.io/address/0x89f864E381201584a77b1deb5DC6197838E03727"
+    }
+  },
+  "did:op:d851Bb6aCA58a82a1C0E33B2eE06d716818b5645": {
+    "content": "Speech Samples & Transcripts for ML",
+    "publisher": {
+      "name": "Emilio Manzano",
+      "url": "https://etherscan.io/address/0x72f92f4496324155c780E1355aEF202eD66Ee470"
+    }
+  },
+  "did:op:7e92933456437c54Ec237f15C6aaF81720807168": {
+    "content": "Clutch Body Linkage CAD Files",
+    "publisher": {
+      "name": "MAG",
+      "url": "https://etherscan.io/address/0x3a38b3ce68378c9e725cc67419F3Ac4d6bbeA39F"
+    }
+  },
+  "did:op:2253349Ea6C11245Dc822EC59A73e42d8BBa1017": {
+    "content": "Community Reputation Pool",
+    "publisher": {
+      "name": "Open Data",
+      "url": "https://twitter.com/databrokers1"
     }
   }
 }
