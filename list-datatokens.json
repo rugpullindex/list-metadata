@@ -376,5 +376,12 @@
       "name": "Open Data",
       "url": "https://twitter.com/databrokers1"
     }
+  },
+  "did:op:0DD51434C7ce9E25723A321A15277Ffaeb92b6dc": {
+    "content": "Company Details of 15,000 Car Companies in The Netherlands (2005-2020)",
+    "publisher": {
+      "name": "Dutch Data Processor",
+      "url": "https://etherscan.io/address/0x445a247A5C3806E2DE2E52d0C0c0c4CA82388321"
+    }
   }
 }
