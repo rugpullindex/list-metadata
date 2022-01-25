@@ -383,5 +383,82 @@
       "name": "Dutch Data Processor",
       "url": "https://etherscan.io/address/0x445a247A5C3806E2DE2E52d0C0c0c4CA82388321"
     }
+  },
+  "did:op:A777Cc9ADD960fe0BE76D06e757B9FE2920d64e3": {
+    "content": "Walmart Product Data",
+    "publisher": {
+      "name": "Grocery NARC",
+      "url": "https://market.oceanprotocol.com/profile/0xca4C72504e693c9f20852B1561557a33Ed5FFfdD"
+    }
+  },
+  "did:op:b8dbaDd74C2CcE2A8629d974A439b15FF6eBF0CA": {
+    "content": "Images of Coronary Arteries",
+    "publisher": {
+      "name": "healthresearcher",
+      "url": "https://market.oceanprotocol.com/profile/0x72f92f4496324155c780E1355aEF202eD66Ee470"
+    }
+  },
+  "did:op:0DD51434C7ce9E25723A321A15277Ffaeb92b6dc": {
+    "content": "15k Dutch Car Companies",
+    "publisher": {
+      "name": "Dutch Data Processor",
+      "url": "https://market.oceanprotocol.com/profile/0x445a247A5C3806E2DE2E52d0C0c0c4CA82388321"
+    }
+  },
+  "did:op:5DC0a8b93842fd2357A51F7D677DD03A2A18577c": {
+    "content": "Licensed Cannabis Growers in CA",
+    "publisher": {
+      "name": "Datapplications",
+      "url": "https://market.oceanprotocol.com/profile/0x5c2494715CB87b4cbbCC6e0DDedf3742F40310D1"
+    }
+  },
+  "did:op:F21fec71BE0D525E3766B680Db1174c96e299d0B": {
+    "content": "Products of Best Shopify Stores",
+    "publisher": {
+      "name": "Dropship Guru",
+      "url": "https://market.oceanprotocol.com/profile/0x8e947CC8173b31320EB53f19b251841c772B2aDf"
+    }
+  },
+  "did:op:b916162e78B70488D25e79d65c4F1e5Db2fDa31F": {
+    "content": "GIFs",
+    "publisher": {
+      "name": "The Goblin GifMaster",
+      "url": "https://market.oceanprotocol.com/profile/0x6641071d8b36DcE317cf6Efaf485d3EAd4fCEd30"
+    }
+  },
+  "did:op:2e3Def4AE24bdA950A04D0368b4045Ec1E3E8D9F": {
+    "content": "Rent Index 2010 - today",
+    "publisher": {
+      "name": "michaelrippe.eth",
+      "url": "https://market.oceanprotocol.com/profile/michaelrippe.eth"
+    }
+  },
+  "did:op:5ab307be9aa7f66b53826E18b5baE408e86bE3AB": {
+    "content": "Copytrader Bot Source Code",
+    "publisher": {
+      "name": "Simon Mezgec",
+      "url": "https://market.oceanprotocol.com/profile/0xD24984281F57EA924C35b01D6fB499bca81486Dc"
+    }
+  },
+  "did:op:a68B7033Ffef08A8c74db2336825DC6d0fACBf11": {
+    "content": "Dark Web Services",
+    "publisher": {
+      "name": "DC.Dark Services",
+      "url": "https://market.oceanprotocol.com/profile/0x3Bb3a47976b76ff2b38Aad3f43A9898A91596550"
+    }
+  },
+  "did:op:B1008cA48Cf0F2D674cA010dECA42629bC019D3B": {
+    "content": "Mental Health Disorders in Tech",
+    "publisher": {
+      "name": "Open Source Mental Illness",
+      "url": "https://market.oceanprotocol.com/profile/0x2AB49DF19A8cdD95dC6FaFE8918fE180F85C58ba"
+    }
+  },
+  "did:op:8BA02a1DDfb35cED7d9452AF49cfFD71f0aEe672": {
+    "content": "GIFs - V3",
+    "publisher": {
+      "name": "The Goblin GifMaster",
+      "url": "https://market.oceanprotocol.com/profile/0x611548062685F9f6Af1FcB2E566517d6d94e01Cd"
+    }
   }
 }
