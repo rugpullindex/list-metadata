@@ -14,6 +14,18 @@ npm i @rugpullindex/list-metadata
 
 ## Changelog
 
+### 0.0.4
+
+- Add more data sets
+
+### 0.0.3
+
+- Add more data sets
+
+### 0.0.2
+
+- Add more data sets
+
 ### 0.0.1
 
 - Initial release
